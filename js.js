@@ -19,7 +19,7 @@ app.post("/", urlencodedParser, function (request, response) {
     console.log(request.body);
     
     let JSON = {
-       
+       helmet:request.body.helmet,
         diameter:request.body.d,
         manufactor:request.body.manufactor
     };
