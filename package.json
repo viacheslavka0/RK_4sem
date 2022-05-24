@@ -1,0 +1,22 @@
+{
+  "name": "rk_4sem",
+  "version": "1.0.0",
+  "description": "6var_rk",
+  "main": "js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viacheslavka0/RK_4sem.git"
+  },
+  "author": "vyacheslav sinyakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viacheslavka0/RK_4sem/issues"
+  },
+  "homepage": "https://github.com/viacheslavka0/RK_4sem#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
